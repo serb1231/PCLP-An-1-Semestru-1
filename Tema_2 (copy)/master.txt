@@ -1,0 +1,4 @@
+fisier1.txt
+fisier2.txt
+fisier3.txt
+fisier4.txt
